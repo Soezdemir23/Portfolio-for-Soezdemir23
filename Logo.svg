@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="110"
+   height="80"
+   viewBox="0 0 29.104167 21.166668"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="Logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-global="true"
+     inkscape:object-paths="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:zoom="2.9647586"
+     inkscape:cx="188.71688"
+     inkscape:cy="134.74959"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     units="px" />
+  <defs
+     id="defs2">
+    <rect
+       x="136.26741"
+       y="670.54364"
+       width="55.991066"
+       height="53.292702"
+       id="rect148502" />
+    <rect
+       x="74.205025"
+       y="654.35339"
+       width="52.618111"
+       height="73.530434"
+       id="rect127354" />
+    <rect
+       x="182.1396"
+       y="310.31192"
+       width="303.56601"
+       height="95.791946"
+       id="rect93544" />
+    <rect
+       x="386.54074"
+       y="308.96274"
+       width="153.80678"
+       height="69.482887"
+       id="rect90112" />
+    <rect
+       x="499.87204"
+       y="397.3342"
+       width="262.41595"
+       height="205.07571"
+       id="rect80930" />
+    <rect
+       x="380.46942"
+       y="339.99393"
+       width="311.6611"
+       height="225.98804"
+       id="rect54966" />
+    <rect
+       x="447.4335"
+       y="384.94543"
+       width="62.488045"
+       height="47.700798"
+       id="rect23854" />
+    <rect
+       x="97.141129"
+       y="211.82162"
+       width="39.126278"
+       height="51.268921"
+       id="rect2343" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text54964"
+       style="font-size:40px;line-height:1.25;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math';white-space:pre;shape-inside:url(#rect54966);fill:none;fill-opacity:1" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text80928"
+       style="font-size:40px;line-height:1.25;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math';white-space:pre;shape-inside:url(#rect80930)" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text90110"
+       style="font-size:40px;line-height:1.25;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math';white-space:pre;shape-inside:url(#rect90112);fill:#ffffff;fill-opacity:1" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text93542"
+       style="font-size:40px;line-height:1.25;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math';white-space:pre;shape-inside:url(#rect93544)" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.43654,0,0,0.42742999,-48.053909,-281.65454)"
+       id="text148500"
+       style="font-size:40px;line-height:1.25;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math';letter-spacing:-4.14061px;white-space:pre;shape-inside:url(#rect148502)"><tspan
+         x="136.26758"
+         y="706.65625"
+         id="tspan925"><tspan
+   style="fill:#00ff00"
+   id="tspan923">O</tspan>e</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.43654,0,0,0.42742999,-33.329608,-284.82629)"
+       id="text127352"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;white-space:pre;shape-inside:url(#rect127354)"><tspan
+         x="74.205078"
+         y="713.16602"
+         id="tspan927">S</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,192 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/*Serdar Özdemir 2022*/
+
+body,html {
+    height: 100%;
+    font-family: 'Marmelad', sans-serif;
+    background: #ffad69;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Marmelad&display=swap');
+
+/*header*/
+header {
+    padding: 5px 20%;
+}
+
+
+/*intro section*/
+.intro {
+    padding: 90px 0;
+    height: 500pxpx;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.intro-wrapper {
+    width: 500px;
+    height: 1400pxpx;
+    background-color: #47A8BD;
+    transform: skew(-20deg);
+    padding: 0 40px;
+}
+
+.intro-text {
+    transform:skew(20deg);
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    font-size: 72px;
+    border-left: 50px solid transparent;
+}
+
+#intro-child1 {
+    text-indent: -35px;
+}
+
+
+#intro-child2 {
+    text-indent: 50px ;
+}
+
+#intro-child3 {
+    text-indent: 100px;
+}
+#intro-child4 {
+    display: flex;
+    gap: 60px;
+    text-indent: -40px;
+}
+
+#intro-junior {
+    color: #6B4FCF;
+}
+
+/*portfolio section*/
+
+.portfolio {
+    padding: 125px;
+    background-color: #6B4FCF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 150px;
+    width: auto;
+    flex: 1;
+}
+
+.portfolio > h2 {
+    font-size: 82px;
+}
+
+#portfolio-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 250px;
+}
+
+
+
+#portfolio-child {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #47A8BD;
+    border-radius: 25px;
+}
+
+
+#img-2 {
+    width: 200px;
+    height:200px;
+    border-radius: inherit;
+}
+/*inheriting the border-radius should be dealing with the border issue*/
+#img-1, #img-3 {
+    width: 355px;
+    border-radius: inherit;
+}
+
+
+/*Sign up is being wrapped here. We can have a sticky footer*/
+#footer-signup-wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 25%;
+}
+
+
+
+/*Sign-Up*/
+.sign-up {
+    font-size: xx-large;
+    flex: 1 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.sign-up > a {
+    text-align: center;
+    text-decoration: none;
+    background-color: #44FF44;
+    border-radius: 24px;
+}
+
+footer {
+    flex-shrink:0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+}
