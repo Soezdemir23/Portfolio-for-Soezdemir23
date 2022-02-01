@@ -49,11 +49,28 @@ table {
 }
 
 /*Serdar Özdemir 2022*/
+/*
+    Reworked for color blindness
+    
+    #44ff44
+    #55d8fa
+    #8959e3
+    #fa555B
+    #F0B251
+
+*/
+:root {
+    --turkis: #55d8fa; 
+    --violet: #8959e3;
+    --green: #44ff44;
+    --orangeish: #f0b251;
+    --reddish: #fa555b;
+}
 
 body,html {
     height: 100%;
     font-family: 'Marmelad', sans-serif;
-    background: #ffad69;
+    background:var(--orangeish);
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Marmelad&display=swap');
@@ -76,7 +93,7 @@ header {
 .intro-wrapper {
     width: 500px;
     height: 1400pxpx;
-    background-color: #47A8BD;
+    background-color: var(--turkis);
     transform: skew(-20deg);
     padding: 0 40px;
 }
@@ -108,14 +125,14 @@ header {
 }
 
 #intro-junior {
-    color: #6B4FCF;
+    color: var(--violet);
 }
 
 /*portfolio section*/
 
 .portfolio {
     padding: 125px;
-    background-color: #6B4FCF;
+    background-color: var(--violet);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -140,7 +157,7 @@ header {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #47A8BD;
+    background-color: var(--turkis);
     border-radius: 25px;
 }
 
@@ -179,7 +196,7 @@ header {
 .sign-up > a {
     text-align: center;
     text-decoration: none;
-    background-color: #44FF44;
+    background-color: var(--green);
     border-radius: 24px;
 }
 
@@ -190,3 +207,4 @@ footer {
     align-items: center;
     gap: 24px;
 }
+
